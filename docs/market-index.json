@@ -36,9 +36,12 @@
       "versions": [
         {
           "version": "1.6.0",
-          "publishTimestamp": 1795521298,
+          "publishTimestamp": 1795575056,
           "source": {
-            "type": "npm"
+            "type": "git",
+            "url": "https://github.com/jungu123154/dsh-douyin-agent.git",
+            "commit": "ad750b9696724cb43882f6ad4529717fb973c907",
+            "path": "dist/dsh-douyin-browser-local"
           },
           "engines": {
             "dsh": ">=0.1.7-rc.1 <0.3.0"
