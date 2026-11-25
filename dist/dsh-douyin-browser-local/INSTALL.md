@@ -13,15 +13,15 @@
 
 ## 安装方式一：本地目录安装（推荐）
 
-1. 解压本包，得到一个插件文件夹（名字带版本号，例如 `dsh-douyin-browser-local-1.6.0`）。
+1. 解压本包，得到一个插件文件夹（名字带版本号，例如 `dsh-douyin-browser-local-1.6.1`）。
 2. 打开 DSH → **插件**（Plugins）→ **添加插件**。
-3. 选择解压出来的插件文件夹（如 `dsh-douyin-browser-local-1.6.0`）。
+3. 选择解压出来的插件文件夹（如 `dsh-douyin-browser-local-1.6.1`）。
 4. 等待安装完成，插件列表会出现「大肥鱼抖音助手」。
 5. **重启 DSH**，进入 **设置** → 找到「大肥鱼抖音助手」分类。
 
 ## 安装方式二：从压缩包安装
 
-如果 DSH 的插件页支持选择压缩包，直接选 `dsh-douyin-browser-local-1.6.0.zip` 或 `.tgz`。
+如果 DSH 的插件页支持选择压缩包，直接选 `dsh-douyin-browser-local-1.6.1.zip` 或 `.tgz`。
 
 ## 首次使用
 

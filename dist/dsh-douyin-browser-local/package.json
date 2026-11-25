@@ -1,6 +1,6 @@
 {
   "name": "dsh-douyin-browser-local",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "type": "module",
   "description": "大肥鱼抖音助手：在 DSH 设置页里控制抖音的观看、私信、分享，并给任意作品点赞、收藏、评论与查看主页作品。",
   "license": "MIT",
@@ -144,7 +144,8 @@
     "proactive-chat.mjs",
     "owner-notify.mjs",
     "voice-settings.mjs",
-    "speech-client.mjs"
+    "speech-client.mjs",
+    "default-persona.md"
   ],
   "exports": {
     ".": "./dsh-plugin.mjs",
