@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Douyin assistant",
+    "description": "Watches Douyin in a local browser, replies to friend messages, shares videos, and can like, favorite, comment on any video and read profile posts.",
+    "detail": "docs/DETAIL-DFY.md"
+  }
+}

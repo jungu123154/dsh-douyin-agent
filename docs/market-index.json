@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "title": {
+    "zh": "大肥鱼抖音助手",
+    "en": "DaFeiYu Douyin Assistant"
+  },
+  "description": {
+    "zh": "在 DSH 设置页里控制抖音的观看、私信、评论、分享与语音。",
+    "en": "Control Douyin watching, DMs, comments, sharing and voice from the DSH settings page."
+  },
+  "plugins": [
+    {
+      "name": "dsh-douyin-browser-local",
+      "title": {
+        "zh": "大肥鱼抖音助手",
+        "en": "DaFeiYu Douyin Assistant"
+      },
+      "description": {
+        "zh": "自主观看、私信自动回复、评论按需 @ 主人、作品分享带感想、主动私信、语音与唱歌。",
+        "en": "Autonomous watching, DM auto-reply, on-demand @ mentions, sharing with a personal note, proactive messages, voice and singing."
+      },
+      "author": "LockyBee",
+      "homepage": "https://github.com/LockyBee/dsh-douyin-agent",
+      "repository": {
+        "url": "https://github.com/LockyBee/dsh-douyin-agent"
+      },
+      "metadata": {
+        "keywords": [
+          "douyin",
+          "browser-automation",
+          "persona",
+          "dsh-plugin"
+        ],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "1.6.0",
+          "publishTimestamp": 1795521298,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.1.7-rc.1 <0.3.0"
+          }
+        }
+      ]
+    }
+  ]
+}
